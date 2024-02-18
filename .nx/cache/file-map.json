@@ -1,0 +1,147 @@
+{
+  "version": "6.0",
+  "nxVersion": "18.0.3",
+  "deps": {},
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {
+      "dapp-mel": [
+        {
+          "file": "dapp-mel/.eslintignore",
+          "hash": "7663861978715868291"
+        },
+        {
+          "file": "dapp-mel/.eslintrc.json",
+          "hash": "5932765210829075424"
+        },
+        {
+          "file": "dapp-mel/.gitignore",
+          "hash": "8491837053101957257"
+        },
+        {
+          "file": "dapp-mel/.prettierignore",
+          "hash": "3395189204293871444"
+        },
+        {
+          "file": "dapp-mel/.prettierrc",
+          "hash": "16267754514737964994"
+        },
+        {
+          "file": "dapp-mel/.vscode/extensions.json",
+          "hash": "4934098906304722861"
+        },
+        {
+          "file": "dapp-mel/README.md",
+          "hash": "15396010378687485513"
+        },
+        {
+          "file": "dapp-mel/jest.config.ts",
+          "hash": "3346622768521973248"
+        },
+        {
+          "file": "dapp-mel/jest.preset.js",
+          "hash": "9430166341120122740"
+        },
+        {
+          "file": "dapp-mel/nx.json",
+          "hash": "17551112643502645262"
+        },
+        {
+          "file": "dapp-mel/package-lock.json",
+          "hash": "7758363945110137294"
+        },
+        {
+          "file": "dapp-mel/package.json",
+          "hash": "14925448283017418858"
+        },
+        {
+          "file": "dapp-mel/project.json",
+          "hash": "16042112696681735294"
+        },
+        {
+          "file": "dapp-mel/src/app/app.component.html",
+          "hash": "679936976129752451"
+        },
+        {
+          "file": "dapp-mel/src/app/app.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "dapp-mel/src/app/app.component.spec.ts",
+          "hash": "1740861251164968520"
+        },
+        {
+          "file": "dapp-mel/src/app/app.component.ts",
+          "hash": "4378837326616071255"
+        },
+        {
+          "file": "dapp-mel/src/app/app.config.ts",
+          "hash": "3040632970396004161"
+        },
+        {
+          "file": "dapp-mel/src/app/app.routes.ts",
+          "hash": "6185150965714414910"
+        },
+        {
+          "file": "dapp-mel/src/app/nx-welcome.component.ts",
+          "hash": "3956014863858297361"
+        },
+        {
+          "file": "dapp-mel/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "dapp-mel/src/favicon.ico",
+          "hash": "9303420814833116677"
+        },
+        {
+          "file": "dapp-mel/src/index.html",
+          "hash": "4984796111656678985"
+        },
+        {
+          "file": "dapp-mel/src/main.ts",
+          "hash": "16635586463787978962"
+        },
+        {
+          "file": "dapp-mel/src/polyfills.ts",
+          "hash": "3717534933093027991"
+        },
+        {
+          "file": "dapp-mel/src/styles.scss",
+          "hash": "5769749366601554076"
+        },
+        {
+          "file": "dapp-mel/src/test-setup.ts",
+          "hash": "12935735732682149507"
+        },
+        {
+          "file": "dapp-mel/tailwind.config.js",
+          "hash": "4616538962241029475"
+        },
+        {
+          "file": "dapp-mel/tsconfig.app.json",
+          "hash": "5824858215164355795"
+        },
+        {
+          "file": "dapp-mel/tsconfig.editor.json",
+          "hash": "17511610827034788226"
+        },
+        {
+          "file": "dapp-mel/tsconfig.json",
+          "hash": "14833296969510433480"
+        },
+        {
+          "file": "dapp-mel/tsconfig.spec.json",
+          "hash": "16287279946930924495"
+        }
+      ]
+    },
+    "nonProjectFiles": [
+      {
+        "file": "README.md",
+        "hash": "11362592287692593683"
+      }
+    ]
+  }
+}
